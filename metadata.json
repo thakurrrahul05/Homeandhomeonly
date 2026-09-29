@@ -1,0 +1,6 @@
+{
+  "name": "HomeAndHomeOnly WordPress Theme",
+  "description": "Custom WordPress theme for Indian homes, featuring curated buying guides, appliance reviews, home decor tips, and practical solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
